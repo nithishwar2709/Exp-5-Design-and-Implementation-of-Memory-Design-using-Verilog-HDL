@@ -38,7 +38,6 @@ Capture screenshots of the waveform and save the simulation logs. These will be 
  // write verilog code for FIFO
  
  // Test bench
-
 // output Waveform
 
 
